@@ -1,0 +1,10 @@
+c:\users\cleveland codes\Documents\CCProj\FileFinder\bin\Debug\FileFinder.exe.config
+c:\users\cleveland codes\Documents\CCProj\FileFinder\bin\Debug\FileFinder.exe
+c:\users\cleveland codes\Documents\CCProj\FileFinder\bin\Debug\FileFinder.pdb
+c:\users\cleveland codes\Documents\CCProj\FileFinder\obj\Debug\FileFinder.csprojResolveAssemblyReference.cache
+c:\users\cleveland codes\Documents\CCProj\FileFinder\obj\Debug\FileFinder.Form1.resources
+c:\users\cleveland codes\Documents\CCProj\FileFinder\obj\Debug\FileFinder.Properties.Resources.resources
+c:\users\cleveland codes\Documents\CCProj\FileFinder\obj\Debug\FileFinder.csproj.GenerateResource.Cache
+c:\users\cleveland codes\Documents\CCProj\FileFinder\obj\Debug\FileFinder.csproj.CoreCompileInputs.cache
+c:\users\cleveland codes\Documents\CCProj\FileFinder\obj\Debug\FileFinder.exe
+c:\users\cleveland codes\Documents\CCProj\FileFinder\obj\Debug\FileFinder.pdb
